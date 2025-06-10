@@ -1,0 +1,29 @@
+# Privacy Policy
+
+Welcome to using our applications (hereinafter referred to as the App(s)). To ensure you can use the services and information of our App(s) with peace of mind, we hereby explain our privacy policy to protect your rights. Please read the following content carefully:
+
+## 1. Scope of the Privacy Policy
+
+This privacy policy covers how our App(s) handle personally identifiable information collected when you use the services. The policy does not apply to external websites or applications linked from our App(s), nor to personnel not entrusted or involved in the management of our App(s).
+
+## 2. Collection, Processing, and Use of Personal Data
+
+When you download or use the functions and services provided by our App(s), we may ask you to provide necessary personal information and system permissions according to the nature of the service. Your personal data will only be processed and used within the specific purpose; our App(s) will not use your personal data for other purposes.
+
+Our App(s) may use analytics tools such as Google Analytics and Firebase to anonymously collect your usage information, including source, frequency, time, pages, crash information, etc. This is solely for optimizing and improving the services. These analytics tools do not collect personal information or any data that can identify users. Please use our App(s) with confidence.
+
+## 3. External Links
+
+Our App(s) may provide links to other websites. You may access other websites through these links. However, the privacy policy of our App(s) does not apply to those linked websites. You must refer to the privacy policy of the linked website.
+
+## 4. Policy on Sharing Personal Data with Third Parties
+
+Our App(s) will never provide, exchange, rent, or sell any of your personal data to other individuals, groups, private enterprises, or public agencies.
+
+## 5. Use of Cookies
+
+To provide you with the best service, our App(s) may store and access cookies on your device. However, our App(s) will never collect this information or record/use it on any server. Please use our App(s) with confidence.
+
+## 6. Amendments to the Privacy Policy
+
+This privacy policy may be amended at any time in response to needs. The revised terms will be published on the website or within the App(s).
